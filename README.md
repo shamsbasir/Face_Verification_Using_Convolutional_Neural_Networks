@@ -99,6 +99,5 @@ hw1_p2
     point than regular initialization by Kaiming or Xavier. 
 
 ## Questions?
-sbasir@andrew.cmu.edu
-
+shamsbasir@gmail.com
 
